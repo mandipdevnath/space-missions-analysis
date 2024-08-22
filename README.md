@@ -1,32 +1,24 @@
 # Space Missions Analysis
-Comprehensive Analysis of Space Mission Launches: Unveiling Organizational Dominance, Cost Trends, Popular Launch Periods, and the Evolution of Safety Across Decades
+Comprehensive Analysis of Space Mission Launches, a dataset of over 1000 rows - Unveiling Organizational Dominance, Cost Trends, Popular Launch Periods, and the Evolution of Safety Across Decades.
 
 ======================================
 
-Tools used: Excel, Power Query
+Tools used: Excel, Power Query, Pivot Tables
 
 Steps followed:
 ---------------
 
 1.  Cleaning the data
 
-2.  Transforming the data
+2.  Creating pivot tables
 
-3.  Designing data model
+3.  Designing visuals
 
-4.  Creating calculated columns
+In this project, I conducted an in-depth analysis of historical space mission launches, uncovering key trends and patterns across decades. The analysis highlights which organizations led the space race in any given year and how the costs of missions evolved. Additionally, I examined the seasonality of launches, identifying the most popular months for space missions. Finally, I assessed the safety trends, determining whether the chances of mission failures have decreased or remained constant over the years.
 
-5.  Creating measures
+![cover](https://blogger.googleusercontent.com/img/a/AVvXsEjZyNZOgCswIGOqYnKw2Oz2KTrPu6Z0uQeoMHunvZZFpLciw27Byo9fPOl_prdGA5UvEBWwd7AP4z-JlkHuA8FEnfUaVvzU1gcvG3Db_V0_1x_q5Wc397_f7-6_NYTHyAuEHw_dwUDapRNsW_YvM9vnhoU-RT4hJfEheKq36gwEGUqZhi_eMFh9Hw6jHHY)
 
-6.  Designing visuals
 
-A sales analysis has been built after performing the above steps with the dataset of around 5000 rows of data containing valuable information regarding the business.
-
-After cleaning and transforming the data using Power Query, I created the data model to establish relationships between different tables in the data which is very important to get accurate insight.
-
-![Data Model](https://lh5.googleusercontent.com/eewbq359nmgviM6dtOLf8jF2ZXN-dqQgoBl-6XZ1RKxuWjfv1JcvQW9slZ3FTkHKX4SbO6M6gKB5GZ1dMJfHWn_KWTkBxUrNbqU1RW8MkLfaR2cgWQ-ZjB8tnvbYSGhK_zj9BtDRKnvRNVkh3Tvz6Cg)
-
-After the data model was created I created some calculated columns and measures to answer the business questions, which are shown below:
 
 1\. Total Sales
 ---------------

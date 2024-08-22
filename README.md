@@ -55,6 +55,11 @@ In this project, I conducted an in-depth analysis of historical space mission la
 
 ![trend of launches by countries](https://blogger.googleusercontent.com/img/a/AVvXsEh4myey4MCwaPBZN4E8l6-V5UPG0SdSoI2lgzSBKFm1jiJpYcSYPHvrxGky82zFDUVVHekbaZ5FUMw0rlD-bpJXAdXZ1DwJOpXYso2qeFyLcXJPgrC9i7wqaxYCthC2iIdhkoYgwWGzDUXWff2XsNUpr21V3nsD-iRIUKHrAHqhpxMpBdfVQyDfXt-Mgao=w530-h301)
 
+5\. Trend of Launches
+----------------------------------------------------
+
+![current status of rockets](https://blogger.googleusercontent.com/img/a/AVvXsEhcx0RGee_75GG1xBuVvfSKxeqAfRA3RdpzZCHmdBwmYp3h8lyq4UI_pb3_hsV3yHoV343mGQpJi1uENSnkpBUOwWcKvr8w9WemTBuhGx9eVSROatV9ZKcaPNWBKBYO4IeDixeGWhg1Xgft9NRXpM1wGJKZb_ZElpmLUU0sN1RjWCv07hFz4fGm0xl00QM=w535-h344)
+
 
 ------------
 So, this is the end of the project. Do connect with me on [Linkedin](https://www.linkedin.com/in/mandipdevnath/)
